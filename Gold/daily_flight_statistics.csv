@@ -1,0 +1,2 @@
+date,total_flights,flights_in_air,flights_on_ground,unique_countries,avg_altitude_m,max_altitude_m,avg_velocity_ms,max_velocity_ms,complete_records,incomplete_records
+2025-10-23,8268,8244,24,93,6391.53,36789.36,164.09,373.32,8268,0
